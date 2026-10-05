@@ -31225,3 +31225,7 @@ Brindar atención personalizada y ase…
 2026-10-05 09:34:50,920 INFO 🚀 Computrabajo Ecuador scraper — starting… (Ctrl+C to stop, safe to resume)
 2026-10-05 09:34:50,921 INFO 🏁 ec_SCRAPE_COMPLETE.flag already exists — all locations were fully scraped on a previous run. Delete this file if you want to force a fresh full re-scrape.
 2026-10-05 09:34:50,921 INFO ✅ Done.
+2026-10-05 21:36:32,870 INFO [STARTUP CHECK] INTERNAL_BOT_KEY is SET (length=64) — X-Internal-Auth header WILL be sent on every WordPress request.
+2026-10-05 21:36:32,871 INFO 🚀 Computrabajo Ecuador scraper — starting… (Ctrl+C to stop, safe to resume)
+2026-10-05 21:36:32,871 INFO 🏁 ec_SCRAPE_COMPLETE.flag already exists — all locations were fully scraped on a previous run. Delete this file if you want to force a fresh full re-scrape.
+2026-10-05 21:36:32,871 INFO ✅ Done.
